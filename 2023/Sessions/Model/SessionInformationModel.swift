@@ -115,7 +115,6 @@ extension SessionInformationModel {
             )
         ),
         SessionInformationModel(
-        SessionInformationModel(
             rowTypeString: "hasDetailView",
             placeTypeString: "bigRoom",
             startTimeString: "13:50",
